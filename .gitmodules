@@ -1,0 +1,3 @@
+[submodule "test-submodule-slave"]
+	path = test-submodule-slave
+	url = https://github.com/zzuligy/test-submodule-slave.git
